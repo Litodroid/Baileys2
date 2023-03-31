@@ -1689,7 +1689,7 @@ $root.groupproto = (function() {
         };
 
         return SenderKeyRecordStructure;
-    })();
+    })(); 
 
     return groupproto;
 })();
